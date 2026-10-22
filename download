@@ -1,0 +1,12 @@
+# Arquivos temporários e caches locais
+/tmp/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Artefatos de deploy gerados por build_variants.py
+/netlify-package/
+/ingrid-beauty-netlify.zip
+/ingrid-beauty-single-file.zip
+/ingrid-beauty-git-ready.zip
